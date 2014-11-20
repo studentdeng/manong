@@ -26,7 +26,7 @@
 [HADOOP](#HADOOP)  
 [HASKELL](#HASKELL)  
 [HTML5](#HTML5)  
-[IOS](#IOS)  
+[iOS](#iOS)  
 [JAVA](#JAVA)  
 [JAVASCRIPT](#JAVASCRIPT)  
 [LINUX](#LINUX)  
@@ -328,8 +328,8 @@
 [HTML5 游戏前端开发秘籍（米随随）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fisux.tencent.com%2Fhtml5-game-development-cheats.html&aid=1014&nid=30)  
 [PayPal 开源的 HTML5 视频播放器](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fpaypal%2Faccessible-html5-video-player&aid=1465&nid=45)  
 
-<a name="IOS"></a>
-##IOS
+<a name="iOS"></a>
+##iOS
 [iOS 设计模式解析](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.raywenderlich.com%2F46988%2Fios-design-patterns&aid=3&nid=1)  
 [iOS 开发工具列表](http://weekly.manong.io/bounce?url=http%3A%2F%2Fios.devtools.me%2F&aid=6&nid=1)  
 [[译]iOS 设计模式（@Krq_Tiger）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fxmuzyq.iteye.com%2Fblog%2F1942376&aid=20&nid=2)  
